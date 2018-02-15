@@ -1,4 +1,4 @@
-# PigGame React Native
+# Pig Game React Native
 
 ![Screenshot of the app](http://lrodriguez.me/images/pig_game.png)
 
